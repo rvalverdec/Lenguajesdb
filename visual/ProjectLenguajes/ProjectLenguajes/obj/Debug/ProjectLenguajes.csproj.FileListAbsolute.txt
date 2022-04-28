@@ -1,0 +1,11 @@
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\bin\Debug\ProjectLenguajes.exe.config
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\bin\Debug\ProjectLenguajes.exe
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\bin\Debug\ProjectLenguajes.pdb
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.csproj.AssemblyReference.cache
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.csproj.SuggestedBindingRedirects.cache
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.Form1.resources
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.Properties.Resources.resources
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.csproj.GenerateResource.cache
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.csproj.CoreCompileInputs.cache
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.exe
+F:\Users\RAFA-PC\Escritorio\U\ORACLE lenguajes BD\proyecto\visual\ProjectLenguajes\ProjectLenguajes\obj\Debug\ProjectLenguajes.pdb
